@@ -1,5 +1,6 @@
 <?php
-if($a>1){
+if($a>2){
+	echo "encore";
 	echo "plus grand!";
 }
 
