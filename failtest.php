@@ -1,5 +1,6 @@
 <?php
-if($a>1){
+if($a>3){
 	echo "plus grand!";
+	echo "vraiment";
 }
 
