@@ -1,5 +1,5 @@
 <?php
-if($a>4){
+if($a>6){
 	echo "encore";
 	echo "plus grand!";
 	echo "vraiment";
